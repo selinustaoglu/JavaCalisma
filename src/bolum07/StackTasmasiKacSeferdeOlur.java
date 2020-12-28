@@ -6,7 +6,6 @@ public class StackTasmasiKacSeferdeOlur {
 		foo(1);
 	}
 	
-	
 	public static void foo(int i) {
 		long l1 = 6;
 		long l2 = 6;
